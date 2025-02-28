@@ -75,4 +75,156 @@ body {
   .text-title {
     @apply text-3xl font-bold text-green-500;
   }
+  .livvic-thin {
+    font-family: "Livvic", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .livvic-extralight {
+    font-family: "Livvic", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .livvic-light {
+    font-family: "Livvic", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .livvic-regular {
+    font-family: "Livvic", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .livvic-medium {
+    font-family: "Livvic", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .livvic-semibold {
+    font-family: "Livvic", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .livvic-bold {
+    font-family: "Livvic", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .livvic-black {
+    font-family: "Livvic", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .livvic-thin-italic {
+    font-family: "Livvic", serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .livvic-extralight-italic {
+    font-family: "Livvic", serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .livvic-light-italic {
+    font-family: "Livvic", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .livvic-regular-italic {
+    font-family: "Livvic", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .livvic-medium-italic {
+    font-family: "Livvic", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .livvic-semibold-italic {
+    font-family: "Livvic", serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .livvic-bold-italic {
+    font-family: "Livvic", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .livvic-black-italic {
+    font-family: "Livvic", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+  .roboto-200 {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  } 
+  .roboto-200 {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  } 
+  .roboto-300 {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  } 
+  .roboto-400 {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }  
+  .roboto-500 {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  } 
+  .roboto-600 {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  } 
+  .roboto-700 {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  } 
 }
